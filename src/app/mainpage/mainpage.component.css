@@ -1,0 +1,8 @@
+
+.product-outer{ height: 500px; margin: auto; width: 1300px}
+
+.product-outer h2{ font-size: 30px; text-align: left; font-weight: 100; clear: both; margin: 0px; padding: 0px 0 0 20px;  width: 100%; padding-top: 30px;}
+
+
+.product-outer ul{ margin: 0px; padding: 0px; width: 100%; float: left; border: none; clear: both;}
+.product-outer ul li{ cursor: pointer;margin: 20px;height: 200px; width: 200px; float: left;display: inline-block; border: solid 2px gray}
